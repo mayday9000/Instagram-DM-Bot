@@ -1,0 +1,17 @@
+{
+  "name": "massdmbot",
+  "version": "1.0.0",
+  "main": "massDM.js",
+  "scripts": {
+    "start": "node getFollowers.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "googleapis": "^144.0.0",
+    "puppeteer": "^24.2.1",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
